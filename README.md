@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://th.bing.com/th/id/OIP.HFffb2_-7jFWIycHELNKhgHaEK?rs=1&pid=ImgDetMain">
+<img align="right" alt="Coding" width="100%" src="https://assets.grok.com/users/09c0bce8-d779-4d47-b27d-2d36bb8df85d/r2tHdL15RfTvXWod-generated_image.jpg">
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mansour</h1>
 <h3 align="center">Passionate software developer skilled in C++, OOP, Data Structures & Algorithms, and database design. Proficient in Agile, SOLID principles, and Design Patterns to build scalable, maintainable systems. A problem-solver who thrives on creating efficient, elegant solutions. Always learning, always building.</h3>
