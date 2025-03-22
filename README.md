@@ -1,4 +1,3 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.HFffb2_-7jFWIycHELNKhgHaEK?rs=1&pid=ImgDetMain)](https://abdelrahmmanmansour.io)
 <img align="right" alt="Coding" width="100%" src="https://th.bing.com/th/id/OIP.HFffb2_-7jFWIycHELNKhgHaEK?rs=1&pid=ImgDetMain">
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mansour</h1>
