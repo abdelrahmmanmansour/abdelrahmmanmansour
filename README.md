@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="99%" src="https://res.cloudinary.com/teepublic/image/private/s--qQx6cfve--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_90,w_630/v1610453670/production/designs/18431029_0.jpg">
+<img align="right" alt="Coding" width="100%" src="https://e7.pngegg.com/pngimages/422/534/png-clipart-software-engineers-work-with-laptop.png">
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mansour</h1>
 <h3 align="center">Passionate software developer skilled in C++, OOP, Data Structures & Algorithms, and database design. Proficient in Agile, SOLID principles, and Design Patterns to build scalable, maintainable systems. A problem-solver who thrives on creating efficient, elegant solutions. Always learning, always building.</h3>
