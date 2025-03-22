@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="file:///C:/Users/Lenovo/Downloads/Image%20Panner%20for%20C++%20Developers%20-%20visual%20selection.gif">
+<img align="right" alt="Coding" width="100%" src="https://th.bing.com/th/id/OIP.HFffb2_-7jFWIycHELNKhgHaEK?rs=1&pid=ImgDetMain">
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mansour</h1>
 <h3 align="center">Passionate software developer skilled in C++, OOP, Data Structures & Algorithms, and database design. Proficient in Agile, SOLID principles, and Design Patterns to build scalable, maintainable systems. A problem-solver who thrives on creating efficient, elegant solutions. Always learning, always building.</h3>
