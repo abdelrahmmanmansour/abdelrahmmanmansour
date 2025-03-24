@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="100%" src="https://e7.pngegg.com/pngimages/422/534/png-clipart-software-engineers-work-with-laptop.png">
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mansour</h1>
 <h3 align="center">Passionate software developer skilled in C++, OOP, Data Structures & Algorithms, and database design. Proficient in Agile, SOLID principles, and Design Patterns to build scalable, maintainable systems. A problem-solver who thrives on creating efficient, elegant solutions. Always learning, always building.</h3>
