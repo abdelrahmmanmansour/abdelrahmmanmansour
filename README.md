@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mansour</h1>
-<h3 align="center">.NET Backend Developer | Software Engineer Specialized in C#, .NET, ASP.NET Core, Entity Framework, and SQL to build scalable and efficient backend systems. Skilled in OOP, Data Structures & Algorithms, and database design with a strong foundation in SOLID principles, Design Patterns, and Agile methodologies. Also experienced in C++, bringing problem-solving and performance-oriented thinking to every project. Passionate about continuous learning and creating elegant, maintainable solutions..</h3>
+<h3 align="center">ASP.NET Backend Developer | Software Engineer Specialized in C#, .NET, ASP.NET Core, Entity Framework, and SQL to build scalable and efficient backend systems. Skilled in OOP, Data Structures & Algorithms, and database design with a strong foundation in SOLID principles, Design Patterns, and Agile methodologies. Also experienced in C++, bringing problem-solving and performance-oriented thinking to every project. Passionate about continuous learning and creating elegant, maintainable solutions..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmmanmansour&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmmanmansour" /> </p>
 
 
-- 🌱 I’m currently learning **.NET Backend Developer**
+- 🌱 I’m currently learning **ASP.NET Backend Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelrahmmanmansour](https://github.com/abdelrahmmanmansour)
 
